@@ -13,6 +13,7 @@ namespace StiflerA
         public int hptrue;
         private void StartButton_Click(object sender, EventArgs e)
         {
+
             text = StartTextBox.Text;
             hp = 0;
             AnserLabel.Text = null;
